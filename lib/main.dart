@@ -76,6 +76,4 @@ class _SumadorDeCuentasState extends State<SumadorDeCuentas> {
     );
   }
 }
-git --version
-git --version
 

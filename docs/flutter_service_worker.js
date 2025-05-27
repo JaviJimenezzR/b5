@@ -25,15 +25,26 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "233551196c6faa8fc8d3e2d15c157ca2",
+=======
+"flutter_bootstrap.js": "882737a4b74b41acee3d91c899adcbb1",
+>>>>>>> 1922eb3 (Primer commit para publicar en GitHub Pages)
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+
 "index.html": "35d1d509c556cc2b7f19d18e735d53d3",
 "/": "35d1d509c556cc2b7f19d18e735d53d3",
 "main.dart.js": "8d8089df1627ea2f28313027cc161aa3",
 "manifest.json": "05d8334e26220c0a147e8bea4e61af31",
+=======
+"index.html": "94c6e2674a524827a90cf782a97c1410",
+"/": "94c6e2674a524827a90cf782a97c1410",
+"main.dart.js": "8d8089df1627ea2f28313027cc161aa3",
+"manifest.json": "61b0720c362924de276e64875e17deeb",
+>>>>>>> 1922eb3 (Primer commit para publicar en GitHub Pages)
 "version.json": "d83fdb3cc34ffe64f6ab67ec9a149a89"};
 // The application shell files that are downloaded before a service worker can
 // start.
